@@ -1,5 +1,5 @@
 tmp/todo.txt
 tmp/*
 *.xml
-
 *.db
+*.json
